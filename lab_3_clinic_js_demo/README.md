@@ -2,11 +2,17 @@
 Go to Doctor => Fixing an I/O problem
 
 ## Installing clinic
+Auto cannon is required for some of the testing.
+```
+npm install -g autocannon
+```
+Then, Install clinic
 ```
 npm install -g clinic
 clinic doctor --help
 ```
 Make sure you see the clinic doctor help text.
+
 ## Running clinic doctor
 Go to your desired lab folder
 ```
