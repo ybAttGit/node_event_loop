@@ -1,6 +1,11 @@
 # Lab 4 : Monitoring a web-server with a main thread blocking code and check performance using Clinic.js Doctor
 ## Initial Setup
-To run clinic doctor, type:
+Go to the lab folder and type:
+```
+npm install
+```
+
+To run clinic doctor, open command line and type:
 ```
 clinic doctor --on-port 'autocannon localhost:$PORT' -- node index.js
 ```
