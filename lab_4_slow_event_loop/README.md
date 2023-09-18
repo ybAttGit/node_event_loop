@@ -7,5 +7,6 @@ npm install
 
 To run clinic doctor, type:
 ```
-clinic doctor --on-port 'autocannon localhost:$PORT' -- node slow-event-loop
+clinic doctor --on-port 'autocannon localhost:$PORT' -- node index.js
 ```
+Once the run is completed, an HTML page with the result will automatically open.
