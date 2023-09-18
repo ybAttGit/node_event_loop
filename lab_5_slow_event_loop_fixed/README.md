@@ -1,12 +1,12 @@
 # LAB 5 – Fix a the web-server using async programing and check performance using Clinic.js Doctor
 This repo shows a possible solution to the issue in lab 4.
 ## Initial Setup
-Go to this lab main folder
+Go to the lab folder and type:
 ```
 npm install
 ```
 
-To run clinic doctor, type:
+To run clinic doctor, open command line and type:
 ```
 clinic doctor --on-port 'autocannon localhost:$PORT' -- node index.js
 ```
