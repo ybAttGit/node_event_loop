@@ -1,6 +1,6 @@
 # Lab 4 : Monitoring a web-server with a main thread blocking code and check performance using Clinic.js Doctor
 ## Initial Setup
-Go to this lab main folder
+Go to lab 4 main folder and type:
 ```
 npm install
 ```
