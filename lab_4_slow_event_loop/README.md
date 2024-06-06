@@ -7,6 +7,9 @@ npm install
 
 To run clinic doctor, open command line and type:
 ```
-clinic doctor --on-port 'autocannon localhost:$PORT' -- node index.js
+clinic doctor --on-port 'autocannon localhost:3000' -- node index.js
 ```
 Once the run is completed, an HTML page with the result will automatically open.
+
+Troubleshooting:
+Please make sure to run clinic doctor command from CMD and not power shell
